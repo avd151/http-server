@@ -1,0 +1,39 @@
+Reference-
+https://datatracker.ietf.org/doc/html/rfc2616
+
+Implement HTTP/1.1 using Python
+
+Functionalities to Implement in HTTP Server Project-
+
+1. Basic HTTP Methods = 15 mks
+GET, POST, PUT, HEAD, DELETE
+
+2. Headers = 10 mks
+
+3. Multithreading Implementation = 5 mks
+
+4. Cookies = 2.5 mks
+
+5. Persistent and Non Persistent Connections
+
+6. Logging - with levels of logging = 5 mks
+
+7. Handle File permissions 
+
+8. start, stop, restart http server 
+
+9. Configuration file = 2.5 mks
+
+10. Handle Status Codes (All)
+
+11. Support All types of Media on web page
+Images, Text, Audio, Pdf
+
+12. Support Character sets-
+utf-8, utf-16
+
+13. Automated Code Testing = 10 mks
+Error, Wrong Request Handling
+Mutithreading Testing
+
+
