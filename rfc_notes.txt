@@ -1,0 +1,38 @@
+HTTP Protocol
+
+Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems.
+
+HTTP/1.1 Protocol - given in rfc2616
+
+Open ended set of methods and headers
+Messages are passed in a format similar to that used by Internet mail as defined by the Multipurpose Internet Mail Extensions (MIME)
+Connection = transport layer virtual circuit established between 2 programs for communication
+Message = Basic unit of HTTP Communication- structured sequence of octets - transmitted via connection
+HTTP Request
+HTTP Response
+Resource = network data object/service - identified by URI(Uniform Resource Identifier) - available in multiple representations
+Entity = info transferred as payload of request or response - 
+	Entity header fields = has meta info
+	Entity body = has content
+Representation = Entity + response
+Content negotiation = select appropriate representation when servicing a request
+
+-Operation
+ The HTTP protocol is a request/response protocol. A client sends a
+   request to the server in the form of a request method, URI, and
+   protocol version, followed by a MIME-like message containing request
+   modifiers, client information, and possible body content over a
+   connection with a server. The server responds with a status line,
+   including the message's protocol version and a success or error code,
+   followed by a MIME-like message containing server information, entity
+   metainformation, and possible entity-body content. 
+
+There are three common forms of intermediary:
+1.A proxy is a forwarding agent, receiving
+requests for a URI in its absolute form, rewriting all or part of the message, and forwarding the reformatted request
+toward the server identified by the URI. 
+2.A gateway is a receiving agent, acting as a layer above some other server(s)
+and, if necessary, translating the requests to the underlying server’s protocol. 
+3.A tunnel acts as a relay point between
+two connections without changing the messages; tunnels are used when the communication needs to pass through an
+intermediary (such as a firewall) even when the intermediary cannot understand the contents of the messages.
