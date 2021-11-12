@@ -9,7 +9,7 @@ This will run an HTTP server on port 8000, serving the files in the current fold
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 
-class S(BaseHTTPRequestHandler):
+class Server(BaseHTTPRequestHandler):
     def _set_response(self):
         self.send_response(200)
         self.send_header('Content-type', 'text/html')
@@ -27,7 +27,7 @@ class S(BaseHTTPRequestHandler):
         self._set_response()
         self.wfile.write("POST request for {}".format(self.path).encode('utf-8'))
 
-def run(server_class=HTTPServer, handler_class=S, port=8080):
+def run(server_class=HTTPServer, handler_class=Server, port=8080):
     logging.basicConfig(level=logging.INFO)
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
