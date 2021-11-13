@@ -1,12 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html>  
+<html lang="en">  
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home Page</title>
-  </head>
-  <body>
-    <h1>This is Home page of HTTP Server</h1>
-  </body>
-</html>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home Page</title>        
+      <style>  
+      /*Internal CSS using element name*/  
+            body{background-color:lavender;  
+             text-align: center;}  
+             h2{font-style: italic;  
+              font-size: 30px;  
+              color: #f08080;}  
+            p{font-size: 20px;}  
+        /*Internal CSS using class name*/  
+            .blue{color: blue;}  
+            .red{color: red;}  
+            .green{color: green;} 
+            
+            .GFG {
+            background-color: white;
+            border: 2px solid black;
+            color: green;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 30px;
+            cursor: pointer;
+          }
+      </style>  
+  </head>  
+  <body style="padding-top: 10%;">  
+   <h2>HTTP SERVER</h2>  
+    <p class="blue">Hello..! This is home page of our project..</p>  
+    <p class="red">Welcome to our demo website. This website is created for study purposes 
+      of server testing. Thank You!</p>  
+    <p><button class="GFG" onclick="window.location.href = 'website/login.html';"> Click Here</button></p>  
+  </body>  
+</html> 
