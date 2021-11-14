@@ -146,7 +146,9 @@ def handle_head_method(connectionSocket, client_request, clientList, COOKIE_ID):
 			head_response.append(cookie_msg)            
 			head_response.append('Connection closed\n\n')            
 			encoded_response = '\r\n'.join(head_response).encode()            
-			connectionSocket.send(encoded_response)            
+			connectionSocket.send(encoded_response) 
+			put_msg = 'Put method successful!'
+			connectionSocket.send(put_msg.encode())           
 			clientList.remove(connectionSocket)            
 			connectionSocket.close()            
 		else:
@@ -161,73 +163,73 @@ def handle_head_method(connectionSocket, client_request, clientList, COOKIE_ID):
 
 def handle_put_method(connectionSocket, client_request, clientList):
     # Done on command line
-    file = ROOT + client_request[1]
-    host_msg = 'Host: '
-    connectionSocket.send(host_msg.encode())
-    host_val = connectionSocket.recv(1024).decode()
-    content_type_msg = 'Content-Type: '
-    connectionSocket.send(content_type_msg.encode())
-    file_type_val = connectionSocket.recv(1024).decode()
-    content_msg = 'Content: '
-    connectionSocket.send(content_msg.encode())
-    content_val = connectionSocket.recv(1024).decode()
-    fp = open(file, 'a')
-    fp.write(content)
-    fp.close()
-    clientList.remove(connectionSocket)
-    connectionSocket.close()
+	file = ROOT + client_request[1]
+	host_msg = 'Host: '
+	connectionSocket.send(host_msg.encode())
+	host_val = connectionSocket.recv(1024).decode()
+	content_type_msg = 'Content-Type: '
+	connectionSocket.send(content_type_msg.encode())
+	file_type_val = connectionSocket.recv(1024).decode()
+	content_msg = 'Content: '
+	connectionSocket.send(content_msg.encode())
+	content_val = connectionSocket.recv(1024).decode()
+	fp = open(file, 'a')
+	fp.write(content_val)
+	fp.close()
+	clientList.remove(connectionSocket)
+	connectionSocket.close()
 
 
 def handle_delete_method(connectionSocket, client_request, clientList):
-    file = ROOT + client_request[1]
-    username_msg = 'Enter Username: '
-    connectionSocket.send(username_msg.encode())
-    username_val = connectionSocket.recv(1024).decode()
-    username_val = username_val.split()
-    password_msg = 'Enter Password'
-    connectionSocket.send(password_msg.encode())
-    password_val = connectionSocket.recv(1024).decode()
-    password_val = password_val.split()
-    flag = 0
-    if(username_val[0] == USERNAME and password_val[0] == PASSWORD):
-        flag = 1
-    if(flag == 1):
-        if(os.path.isfile(file)):
-            os.remove(file)
-            del_success_msg = 'File Deleted Successfully\n'
-            connectionSocket.send(del_success_msg.encode())
-        else:
-            status_codes_output('404', connectionSocket)  # check
-    else:
-        status_codes_output('401', connectionSocket)
-    clientList.remove(connectionSocket)
-    connectionSocket.close()
+	file = ROOT + client_request[1]
+	username_msg = 'Enter Username: '
+	connectionSocket.send(username_msg.encode())
+	username_val = connectionSocket.recv(1024).decode()
+	username_val = username_val.split()
+	password_msg = 'Enter Password: '
+	connectionSocket.send(password_msg.encode())
+	password_val = connectionSocket.recv(1024).decode()
+	password_val = password_val.split()
+	flag = 0
+	if(username_val[0] == USERNAME and password_val[0] == PASSWORD):
+		flag = 1
+	if(flag == 1):
+		if(os.path.isfile(file)):
+			os.remove(file)
+			del_success_msg = 'File Deleted Successfully\n'
+			connectionSocket.send(del_success_msg.encode())
+		else:
+			status_codes_output('404', connectionSocket)  # check
+	else:
+		status_codes_output('401', connectionSocket)
+	clientList.remove(connectionSocket)
+	connectionSocket.close()
 
 
 def handle_post_method(connectionSocket, client_request, clientList):
-    post_response = []
-    uri_sentence = connectionSocket.recv(1024).decode()
-    line = uri_sentence.split('\r\n\r\n')
-    fp = open('post_data.txt', 'a')
-    post_data = line[1].split('&')
-    fp.write(post_data[0] + '\n')
-    fp.write(post_data[1] + '\n')
-    fp.wrie('\n')
-    fp.close()
-    print('{}\n {} \n'.format(post_data[0], post_data[1]))
-    post_response.append('HTTP/1.1 200 OK')
-    modified_date = modified_date('forpost.txt')
-    post_response.append(modified_date)
-    post_response.append('Server: HTTP/1.1 (Ubuntu)')
-    post_response.append('Content-Language: en-US, en')
-    file_size = os.path.getsize('forpost.txt')
-    post_response.append('Content Length: ', str(file_size))
-    post_response.append('Content-Type: text/html')
-    len_response = len(post_response)
-    for i in range(len_response):
-        print(response[i])
-    clientList.remoce(connectionSocket)
-    connectionSocket.close()
+	post_response = []
+	uri_sentence = connectionSocket.recv(1024).decode()
+	line = uri_sentence.split('\r\n\r\n')
+	fp = open('post_data.txt', 'a')
+	post_data = line[1].split('&')
+	fp.write(post_data[0] + '\n')
+	fp.write(post_data[1] + '\n')
+	fp.wrie('\n')
+	fp.close()
+	print('{}\n {} \n'.format(post_data[0], post_data[1]))
+	post_response.append('HTTP/1.1 200 OK')
+	modified_date = modified_date('forpost.txt')
+	post_response.append(modified_date)
+	post_response.append('Server: HTTP/1.1 (Ubuntu)')
+	post_response.append('Content-Language: en-US, en')
+	file_size = os.path.getsize('forpost.txt')
+	post_response.append('Content Length: ', str(file_size))
+	post_response.append('Content-Type: text/html')
+	len_response = len(post_response)
+	for i in range(len_response):
+		print(response[i])
+	clientList.remoce(connectionSocket)
+	connectionSocket.close()
 
 
 def handle_all_methods(connectionSocket, addr, clientList, COOKIE_ID):
