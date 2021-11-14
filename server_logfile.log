@@ -1,818 +1,3 @@
-2021-11-14 13:49:21,873 : Client Address:  127.0.0.1 Port No.:  56778 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 13:49:22,490 : Client Address:  127.0.0.1 Port No.:  56780 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 13:49:26,100 : Client Address:  127.0.0.1 Port No.:  56782 Request:  GET /website/signup.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 13:49:26,383 : Client Address:  127.0.0.1 Port No.:  56784 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/signup.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 13:49:45,348 : Client Address:  127.0.0.1 Port No.:  56786 Request:  GET /website/signup.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://localhost:9000/website/index.html
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-If-Modified-Since: Sun,Nov1413:46:292021
-Cache-Control: max-age=0
-
-
-
-2021-11-14 13:49:45,618 : Client Address:  127.0.0.1 Port No.:  56788 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/signup.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-Cache-Control: max-age=0
-
-
-
-2021-11-14 13:49:46,730 : Client Address:  127.0.0.1 Port No.:  56790 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 13:49:47,789 : Client Address:  127.0.0.1 Port No.:  56792 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 13:49:48,145 : Client Address:  127.0.0.1 Port No.:  56794 Request:  GET /website/avatar.png HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 13:49:48,297 : Client Address:  127.0.0.1 Port No.:  56796 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:06:43,932 : Client Address:  127.0.0.1 Port No.:  56872 Request:  PUT /test.txt
-
-
-2021-11-14 14:13:23,041 : Client Address:  127.0.0.1 Port No.:  56882 Request:  PUT /test.txt
-
-
-2021-11-14 14:16:14,892 : Client Address:  127.0.0.1 Port No.:  56888 Request:  PUT /test.txt
-
-
-2021-11-14 14:17:01,804 : Client Address:  127.0.0.1 Port No.:  56890 Request:  put /t1.txt
-
-
-2021-11-14 14:17:41,009 : Client Address:  127.0.0.1 Port No.:  55662 Request:  PUT /t2.txt
-
-
-2021-11-14 14:18:19,558 : Client Address:  127.0.0.1 Port No.:  55664 Request:  DELETE /t2.txt
-
-
-2021-11-14 14:22:53,682 : Client Address:  127.0.0.1 Port No.:  55690 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:22:54,375 : Client Address:  127.0.0.1 Port No.:  55692 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:22:57,336 : Client Address:  127.0.0.1 Port No.:  55694 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:22:57,667 : Client Address:  127.0.0.1 Port No.:  55696 Request:  GET /website/avatar.png HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:22:57,987 : Client Address:  127.0.0.1 Port No.:  55698 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:23:06,157 : Client Address:  127.0.0.1 Port No.:  55700 Request:  POST /website/dashboard.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 32
-Origin: http://localhost:9001
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-uname=demo1&psw=psw1&remember=on
-
-2021-11-14 14:23:14,158 : Client Address:  127.0.0.1 Port No.:  55702 Request:  
-
-2021-11-14 14:30:46,161 : Client Address:  127.0.0.1 Port No.:  56136 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-If-Modified-Since: Sun,Nov1413:46:292021
-
-
-
-2021-11-14 14:30:46,684 : Client Address:  127.0.0.1 Port No.:  56138 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:30:48,725 : Client Address:  127.0.0.1 Port No.:  56140 Request:  GET /website/signup.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:30:49,123 : Client Address:  127.0.0.1 Port No.:  56142 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/signup.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:34:54,141 : Client Address:  127.0.0.1 Port No.:  56346 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-If-Modified-Since: Sun,Nov1413:46:292021
-
-
-
-2021-11-14 14:34:54,628 : Client Address:  127.0.0.1 Port No.:  56348 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:34:56,248 : Client Address:  127.0.0.1 Port No.:  56350 Request:  GET /website/signup.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-If-Modified-Since: Sun,Nov1414:30:182021
-
-
-
-2021-11-14 14:34:56,571 : Client Address:  127.0.0.1 Port No.:  56352 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/signup.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:35:05,363 : Client Address:  127.0.0.1 Port No.:  56368 Request:  POST /website/action.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 25
-Origin: http://localhost:9001
-Connection: keep-alive
-Referer: http://localhost:9001/website/signup.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-usernm=demo1&passwd=test1
-
-2021-11-14 14:38:20,077 : Client Address:  127.0.0.1 Port No.:  57634 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:38:21,024 : Client Address:  127.0.0.1 Port No.:  57636 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:38:24,760 : Client Address:  127.0.0.1 Port No.:  57638 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:38:25,724 : Client Address:  127.0.0.1 Port No.:  57640 Request:  GET /website/avatar.png HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:38:25,812 : Client Address:  127.0.0.1 Port No.:  57642 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9000/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:38:45,770 : Client Address:  127.0.0.1 Port No.:  57644 Request:  POST /website/dashboard.html HTTP/1.1
-Host: localhost:9000
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 33
-Origin: http://localhost:9000
-Connection: keep-alive
-Referer: http://localhost:9000/website/login.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-uname=demo1&psw=demo1&remember=on
-
-2021-11-14 14:41:39,050 : Client Address:  127.0.0.1 Port No.:  56476 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:41:40,354 : Client Address:  127.0.0.1 Port No.:  56478 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:41:42,139 : Client Address:  127.0.0.1 Port No.:  56480 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:41:42,621 : Client Address:  127.0.0.1 Port No.:  56482 Request:  GET /website/avatar.png HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:41:42,710 : Client Address:  127.0.0.1 Port No.:  56484 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:41:50,708 : Client Address:  127.0.0.1 Port No.:  56486 Request:  POST /website/dashboard.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 33
-Origin: http://localhost:9001
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-uname=demo1&psw=test1&remember=on
-
-2021-11-14 14:42:13,231 : Client Address:  127.0.0.1 Port No.:  56488 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:42:14,293 : Client Address:  127.0.0.1 Port No.:  56490 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:42:14,923 : Client Address:  127.0.0.1 Port No.:  56492 Request:  GET /website/avatar.png HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:42:15,006 : Client Address:  127.0.0.1 Port No.:  56494 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:42:27,079 : Client Address:  127.0.0.1 Port No.:  56496 Request:  POST /website/login.html HTTP/1.1
-Host: localhost:9001
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 74
-Origin: http://localhost:9001
-Connection: keep-alive
-Referer: http://localhost:9001/website/login.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-email=deshpandeav19.comp%40coep.ac.in&psw=1234&psw-repeat=1234&remember=on
-
-2021-11-14 14:45:51,549 : Client Address:  127.0.0.1 Port No.:  35502 Request:  GET /website/index.html HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: none
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:45:52,264 : Client Address:  127.0.0.1 Port No.:  35504 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:45:54,251 : Client Address:  127.0.0.1 Port No.:  35506 Request:  GET /website/signup.html HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:45:55,455 : Client Address:  127.0.0.1 Port No.:  35508 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/signup.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:45:56,810 : Client Address:  127.0.0.1 Port No.:  35510 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/index.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:45:58,546 : Client Address:  127.0.0.1 Port No.:  35512 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/index.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
-2021-11-14 14:45:59,212 : Client Address:  127.0.0.1 Port No.:  35514 Request:  GET /website/avatar.png HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:45:59,308 : Client Address:  127.0.0.1 Port No.:  35516 Request:  GET /favicon.ico HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: image/avif,image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Referer: http://localhost:9003/website/login.html
-Sec-Fetch-Dest: image
-Sec-Fetch-Mode: no-cors
-Sec-Fetch-Site: same-origin
-
-
-
-2021-11-14 14:46:08,195 : Client Address:  127.0.0.1 Port No.:  35518 Request:  POST /website/login.html HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 33
-Origin: http://localhost:9003
-Connection: keep-alive
-Referer: http://localhost:9003/website/login.html
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-uname=demo1&psw=test1&remember=on
-
-2021-11-14 14:50:06,668 : Client Address:  127.0.0.1 Port No.:  35590 Request:  GET /website/login.html HTTP/1.1
-Host: localhost:9003
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://localhost:9003/website/index.html
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-
-
-
 2021-11-14 14:50:06,904 : Client Address:  127.0.0.1 Port No.:  35592 Request:  GET /website/avatar.png HTTP/1.1
 Host: localhost:9003
 User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
@@ -1010,4 +195,1169 @@ Sec-Fetch-Site: same-origin
 Sec-Fetch-User: ?1
 
 uname=demo1&psw=demo1&remember=on
+
+2021-11-14 21:22:52,727 : Client Address:  127.0.0.1 Port No.:  54024 Request:  GET / HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:22:52,817 : Client Address:  127.0.0.1 Port No.:  54025 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:23:05,473 : Client Address:  127.0.0.1 Port No.:  54030 Request:  
+
+2021-11-14 21:23:12,407 : Client Address:  127.0.0.1 Port No.:  54035 Request:  GET /index.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:23:15,349 : Client Address:  127.0.0.1 Port No.:  54036 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:23:15,380 : Client Address:  127.0.0.1 Port No.:  54037 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:23:26,881 : Client Address:  127.0.0.1 Port No.:  54040 Request:  POST /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 32
+Origin: http://127.0.0.1:8002
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+uname=demo1&psw=1234&remember=on
+
+2021-11-14 21:25:34,858 : Client Address:  127.0.0.1 Port No.:  53987 Request:  GET /website/demo.mp3 HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,048 : Client Address:  127.0.0.1 Port No.:  53988 Request:  GET /website/demo.mp4 HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,186 : Client Address:  127.0.0.1 Port No.:  53991 Request:  GET /website/demo.html HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,296 : Client Address:  127.0.0.1 Port No.:  53993 Request:  GET /website/demo.png HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=3 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,382 : Client Address:  127.0.0.1 Port No.:  53995 Request:  GET /website/demo.jpeg HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=3 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,540 : Client Address:  127.0.0.1 Port No.:  53997 Request:  GET /website/demo.pdf HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=3 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,642 : Client Address:  127.0.0.1 Port No.:  53999 Request:  GET /website/demo.txt HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=3 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:35,855 : Client Address:  127.0.0.1 Port No.:  54001 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+sec-ch-ua-platform: "Windows"
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8002/website/demo.txt
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:25:36,182 : Client Address:  127.0.0.1 Port No.:  54002 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+sec-ch-ua-platform: "Windows"
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8002/website/demo.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:32,804 : Client Address:  127.0.0.1 Port No.:  54010 Request:  GET /website/demo.mp3 HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:32,996 : Client Address:  127.0.0.1 Port No.:  54012 Request:  GET /website/demo.mp4 HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:33,084 : Client Address:  127.0.0.1 Port No.:  54015 Request:  GET /website/demo.html HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+If-Modified-Since: Sun,Nov1418:08:322021
+
+
+
+2021-11-14 21:26:33,143 : Client Address:  127.0.0.1 Port No.:  54017 Request:  GET /website/demo.png HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=12 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:33,290 : Client Address:  127.0.0.1 Port No.:  54019 Request:  GET /website/demo.jpeg HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=12 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:33,330 : Client Address:  127.0.0.1 Port No.:  54021 Request:  GET /website/demo.pdf HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=12 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:33,410 : Client Address:  127.0.0.1 Port No.:  54024 Request:  GET /website/demo.txt HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Id=12 Max-Age = 3000; csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+If-Modified-Since: Sun,Nov1420:10:562021
+
+
+
+2021-11-14 21:26:33,531 : Client Address:  127.0.0.1 Port No.:  54027 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+sec-ch-ua-platform: "Windows"
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8002/website/demo.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:26:33,838 : Client Address:  127.0.0.1 Port No.:  54031 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8002
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53
+sec-ch-ua-platform: "Windows"
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8002/website/demo.txt
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: csrftoken=O8tdYwac41fWjdxVl9dGezZ54hcXbdSskPp6UGeTUpQxd9hsp5RoxXxvS4gddoxA
+
+
+
+2021-11-14 21:30:39,276 : Client Address:  127.0.0.1 Port No.:  54151 Request:  GET / HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:30:39,381 : Client Address:  127.0.0.1 Port No.:  54152 Request:  
+
+2021-11-14 21:30:46,511 : Client Address:  127.0.0.1 Port No.:  54155 Request:  GET /index.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:30:50,520 : Client Address:  127.0.0.1 Port No.:  54156 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:30:50,554 : Client Address:  127.0.0.1 Port No.:  54157 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:31:02,565 : Client Address:  127.0.0.1 Port No.:  54158 Request:  POST /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 33
+Origin: http://127.0.0.1:8002
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+uname=demo1&psw=demo1&remember=on
+
+2021-11-14 21:34:49,426 : Client Address:  127.0.0.1 Port No.:  54248 Request:  GET / HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:34:49,506 : Client Address:  127.0.0.1 Port No.:  54249 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:34:58,987 : Client Address:  127.0.0.1 Port No.:  54256 Request:  
+
+2021-11-14 21:34:59,444 : Client Address:  127.0.0.1 Port No.:  54263 Request:  GET /index.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:35:01,649 : Client Address:  127.0.0.1 Port No.:  54264 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:35:01,678 : Client Address:  127.0.0.1 Port No.:  54265 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:35:11,028 : Client Address:  127.0.0.1 Port No.:  54266 Request:  
+
+2021-11-14 21:35:13,554 : Client Address:  127.0.0.1 Port No.:  54267 Request:  GET /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:35:19,580 : Client Address:  127.0.0.1 Port No.:  54274 Request:  
+
+2021-11-14 21:35:31,806 : Client Address:  127.0.0.1 Port No.:  54276 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8001/index.html
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:35:31,846 : Client Address:  127.0.0.1 Port No.:  54277 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:35:45,356 : Client Address:  127.0.0.1 Port No.:  54285 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:35:45,387 : Client Address:  127.0.0.1 Port No.:  54286 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:36:05,544 : Client Address:  127.0.0.1 Port No.:  54293 Request:  POST /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Origin: http://127.0.0.1:8001
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+uname=123&psw=123&remember=on
+
+2021-11-14 21:36:15,132 : Client Address:  127.0.0.1 Port No.:  54295 Request:  GET /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Sun,Nov1421:04:502021
+
+
+
+2021-11-14 21:36:17,057 : Client Address:  127.0.0.1 Port No.:  54297 Request:  GET /website/demo.jpeg HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:22,870 : Client Address:  127.0.0.1 Port No.:  54299 Request:  GET /website/demo.jpeg HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:23,966 : Client Address:  127.0.0.1 Port No.:  54300 Request:  GET /website/demo.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:25,428 : Client Address:  127.0.0.1 Port No.:  54304 Request:  GET /website/demo.mp4 HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:26,303 : Client Address:  127.0.0.1 Port No.:  54307 Request:  GET /website/demo.mp3 HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:27,258 : Client Address:  127.0.0.1 Port No.:  54308 Request:  GET /website/demo.pdf HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:28,414 : Client Address:  127.0.0.1 Port No.:  54309 Request:  GET /website/demo.txt HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:32,923 : Client Address:  127.0.0.1 Port No.:  54310 Request:  GET /website/demo.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:40,692 : Client Address:  127.0.0.1 Port No.:  54313 Request:  
+
+2021-11-14 21:36:43,689 : Client Address:  127.0.0.1 Port No.:  54355 Request:  GET /website/demo.pdf HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:45,829 : Client Address:  127.0.0.1 Port No.:  54358 Request:  GET /website/demo.mp3 HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:46,574 : Client Address:  127.0.0.1 Port No.:  54359 Request:  GET /website/demo.mp4 HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/dashboard.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:51,802 : Client Address:  127.0.0.1 Port No.:  54360 Request:  
+
+2021-11-14 21:36:53,925 : Client Address:  127.0.0.1 Port No.:  54365 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://127.0.0.1:8001/index.html
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:36:53,950 : Client Address:  127.0.0.1 Port No.:  54366 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:40:05,121 : Client Address:  127.0.0.1 Port No.:  54440 Request:  GET /index.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Sat,Nov1320:17:022021
+
+
+
+2021-11-14 21:40:07,083 : Client Address:  127.0.0.1 Port No.:  54444 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:40:07,121 : Client Address:  127.0.0.1 Port No.:  54445 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:40:15,225 : Client Address:  127.0.0.1 Port No.:  54447 Request:  
+
+2021-11-14 21:40:18,461 : Client Address:  127.0.0.1 Port No.:  54448 Request:  GET /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+If-Modified-Since: Sun,Nov1421:04:502021
+
+
+
+2021-11-14 21:40:23,826 : Client Address:  127.0.0.1 Port No.:  54449 Request:  
+
+2021-11-14 21:43:25,390 : Client Address:  127.0.0.1 Port No.:  54464 Request:  
+
+2021-11-14 21:43:28,808 : Client Address:  127.0.0.1 Port No.:  54470 Request:  GET /index.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Sat,Nov1320:17:022021
+
+
+
+2021-11-14 21:43:30,580 : Client Address:  127.0.0.1 Port No.:  54473 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:43:30,611 : Client Address:  127.0.0.1 Port No.:  54474 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:43:38,951 : Client Address:  127.0.0.1 Port No.:  54476 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+
+2021-11-14 21:43:38,969 : Client Address:  127.0.0.1 Port No.:  54477 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8001/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+2021-11-14 21:46:00,640 : Client Address:  127.0.0.1 Port No.:  54493 Request:  
+2021-11-14 21:46:31,058 : Client Address:  127.0.0.1 Port No.:  54510 Request:  GET /index.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Sat,Nov1320:17:022021
+
+
+2021-11-14 21:46:31,123 : Client Address:  127.0.0.1 Port No.:  54511 Request:  GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/index.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+2021-11-14 21:46:34,333 : Client Address:  127.0.0.1 Port No.:  54514 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/index.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+2021-11-14 21:46:34,360 : Client Address:  127.0.0.1 Port No.:  54515 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+2021-11-14 21:46:43,873 : Client Address:  127.0.0.1 Port No.:  54517 Request:  POST /website/dashboard.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 34
+Origin: http://127.0.0.1:8002
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+uname=rashmi&psw=mulik&remember=on
+2021-11-14 21:46:48,697 : Client Address:  127.0.0.1 Port No.:  54518 Request:  GET /website/login.html HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
+
+2021-11-14 21:46:48,716 : Client Address:  127.0.0.1 Port No.:  54520 Request:  GET /website/avatar.png HTTP/1.1
+Host: 127.0.0.1:8002
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8002/website/login.html
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
 
