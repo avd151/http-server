@@ -12,6 +12,9 @@ MAX_URI_LENGTH = 100
 #Max Size of Payload of data the Server can Support (in bytes)
 MAX_PAYLOAD_LEN = 1073741824 #1GB
 
+#List to store current client connections of server
+clientList = []
+
 #Document Root of Server = Current Working Directory
 ROOT = os.getcwd()
 
@@ -22,10 +25,11 @@ LOGFILE = ROOT + '/server_logfile.log'
 LOGFILE_EXP_TIME = 5184000 #60 days = 5184000 seconds
 
 #Log format 
-LOG_FORMAT = '%(asctime)s : %(uri)s : %(message)s'
+LOG_FORMAT = '%(asctime)s : %(message)s'
 
 #Demo Username and Password for Testing Delete
 USERNAME = 'test1'
 PASSWORD = 'test123'
+
 
 
